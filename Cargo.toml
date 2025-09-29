@@ -5,18 +5,7 @@ description = "A no_std Rust driver for the AXS5106L capacitive touch controller
 edition = "2024"
 license-file = "LICENSE"
 repository = "https://github.com/toto04/axs5106l"
-keywords = [
-  "embedded",
-  "driver",
-  "touchscreen",
-  "capacitive",
-  "no_std",
-  "embedded-hal",
-  "axs5106l",
-  "i2c",
-  "esp32",
-  "esp32-c6",
-]
+keywords = ["embedded", "touchscreen", "embedded-hal", "axs5106l", "esp32"]
 categories = ["embedded", "no-std"]
 
 [dependencies]
